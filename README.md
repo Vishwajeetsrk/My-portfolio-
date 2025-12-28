@@ -1,4 +1,4 @@
-# Vishwajeet S. R. K. - Personal Portfolio Website
+# Vishwajeet - Personal Portfolio Website
 
 A modern, interactive, and fully responsive personal portfolio website showcasing the professional journey, skills, and projects of Vishwajeet S. R. K., a data-driven professional and full-stack web development enthusiast from Bengaluru.
 
@@ -249,9 +249,9 @@ Edit CSS variables in `css/style.css`:
 
 ## 📞 Contact Information
 
-- **Name**: Vishwajeet S. R. K.
+- **Name**: Vishwajeet 
 - **Location**: Bengaluru, Karnataka, India
-- **Phone**: +91 8595202922
+- **Phone**: +91 
 - **Email**: vishwajeetsrk@gmail.com
 - **LinkedIn**: [linkedin.com/in/vishwajeetsrk](https://www.linkedin.com/in/vishwajeetsrk)
 
@@ -283,6 +283,6 @@ This project is open for personal and educational use. Feel free to use it as a 
 
 ---
 
-**Built with ❤️ by Vishwajeet S. R. K.**
+**Built with ❤️ by Vishwajeet**
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
